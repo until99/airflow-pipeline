@@ -379,3 +379,31 @@ NameError: name 'transform_spotify_data' is not defined. Did you mean: 'trasnfor
 [2024-09-08T21:30:29.619-0300] {logging_mixin.py:190} INFO - [2024-09-08T21:30:29.618-0300] {dag.py:3229} INFO - Sync 1 DAGs
 [2024-09-08T21:30:29.634-0300] {logging_mixin.py:190} INFO - [2024-09-08T21:30:29.634-0300] {dag.py:4156} INFO - Setting next_dagrun for spotify_dag_001 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
 [2024-09-08T21:30:29.663-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/spotify_dag_001.py took 0.070 seconds
+[2024-09-08T21:30:59.812-0300] {processor.py:186} INFO - Started process (PID=18559) to work on /home/kasten/airflow/dags/spotify_dag_001.py
+[2024-09-08T21:30:59.813-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/spotify_dag_001.py for tasks to queue
+[2024-09-08T21:30:59.814-0300] {logging_mixin.py:190} INFO - [2024-09-08T21:30:59.813-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/spotify_dag_001.py
+[2024-09-08T21:30:59.821-0300] {processor.py:925} INFO - DAG(s) 'spotify_dag_001' retrieved from /home/kasten/airflow/dags/spotify_dag_001.py
+[2024-09-08T21:30:59.835-0300] {logging_mixin.py:190} INFO - [2024-09-08T21:30:59.835-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-08T21:30:59.851-0300] {logging_mixin.py:190} INFO - [2024-09-08T21:30:59.851-0300] {dag.py:4156} INFO - Setting next_dagrun for spotify_dag_001 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-08T21:30:59.870-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/spotify_dag_001.py took 0.062 seconds
+[2024-09-08T21:31:30.005-0300] {processor.py:186} INFO - Started process (PID=18742) to work on /home/kasten/airflow/dags/spotify_dag_001.py
+[2024-09-08T21:31:30.006-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/spotify_dag_001.py for tasks to queue
+[2024-09-08T21:31:30.007-0300] {logging_mixin.py:190} INFO - [2024-09-08T21:31:30.007-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/spotify_dag_001.py
+[2024-09-08T21:31:30.014-0300] {processor.py:925} INFO - DAG(s) 'spotify_dag_001' retrieved from /home/kasten/airflow/dags/spotify_dag_001.py
+[2024-09-08T21:31:30.028-0300] {logging_mixin.py:190} INFO - [2024-09-08T21:31:30.028-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-08T21:31:30.046-0300] {logging_mixin.py:190} INFO - [2024-09-08T21:31:30.046-0300] {dag.py:4156} INFO - Setting next_dagrun for spotify_dag_001 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-08T21:31:30.066-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/spotify_dag_001.py took 0.065 seconds
+[2024-09-08T21:31:45.278-0300] {processor.py:186} INFO - Started process (PID=18840) to work on /home/kasten/airflow/dags/spotify_dag_001.py
+[2024-09-08T21:31:45.279-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/spotify_dag_001.py for tasks to queue
+[2024-09-08T21:31:45.280-0300] {logging_mixin.py:190} INFO - [2024-09-08T21:31:45.280-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/spotify_dag_001.py
+[2024-09-08T21:31:45.288-0300] {processor.py:925} INFO - DAG(s) 'spotify_dag_001' retrieved from /home/kasten/airflow/dags/spotify_dag_001.py
+[2024-09-08T21:31:45.303-0300] {logging_mixin.py:190} INFO - [2024-09-08T21:31:45.303-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-08T21:31:45.320-0300] {logging_mixin.py:190} INFO - [2024-09-08T21:31:45.320-0300] {dag.py:4156} INFO - Setting next_dagrun for spotify_dag_001 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-08T21:31:45.337-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/spotify_dag_001.py took 0.063 seconds
+[2024-09-08T21:31:47.445-0300] {processor.py:186} INFO - Started process (PID=18843) to work on /home/kasten/airflow/dags/spotify_dag_001.py
+[2024-09-08T21:31:47.446-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/spotify_dag_001.py for tasks to queue
+[2024-09-08T21:31:47.447-0300] {logging_mixin.py:190} INFO - [2024-09-08T21:31:47.447-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/spotify_dag_001.py
+[2024-09-08T21:31:47.455-0300] {processor.py:925} INFO - DAG(s) 'spotify_dag_001' retrieved from /home/kasten/airflow/dags/spotify_dag_001.py
+[2024-09-08T21:31:47.469-0300] {logging_mixin.py:190} INFO - [2024-09-08T21:31:47.469-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-08T21:31:47.486-0300] {logging_mixin.py:190} INFO - [2024-09-08T21:31:47.486-0300] {dag.py:4156} INFO - Setting next_dagrun for spotify_dag_001 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-08T21:31:47.504-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/spotify_dag_001.py took 0.063 seconds

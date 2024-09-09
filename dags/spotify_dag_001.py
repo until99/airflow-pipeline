@@ -41,7 +41,7 @@ with DAG(
         # spotify_api_response = run_spotify_etl
         
         print('extract')
-        raise Exception('fudeo')
+        # raise Exception('fudeo')
 
     @task()
     def trasnform_spotify_data():
