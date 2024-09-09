@@ -5,7 +5,7 @@ from weather_etl import run_weather_etl
 
 @dag(
     dag_id='weather_etl',
-    schedule_interval="@daily",
+    # schedule_interval="@daily",
     schedule="30 1 * * *",
     start_date=datetime(2024, 9, 9),
     catchup=False,

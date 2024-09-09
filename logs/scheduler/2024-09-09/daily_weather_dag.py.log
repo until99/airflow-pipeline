@@ -824,3 +824,31 @@ Traceback (most recent call last):
 ValueError: At most one allowed for args 'schedule_interval', 'timetable', and 'schedule'.
 [2024-09-09T01:23:19.058-0300] {processor.py:927} WARNING - No viable dags retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
 [2024-09-09T01:23:19.072-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.240 seconds
+[2024-09-09T01:23:49.386-0300] {processor.py:186} INFO - Started process (PID=58344) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-09T01:23:49.387-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-09T01:23:49.389-0300] {logging_mixin.py:190} INFO - [2024-09-09T01:23:49.389-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-09T01:23:49.493-0300] {logging_mixin.py:190} INFO - [2024-09-09T01:23:49.493-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-09T01:23:49.625-0300] {logging_mixin.py:190} INFO - [2024-09-09T01:23:49.624-0300] {dagbag.py:386} ERROR - Failed to import: /home/kasten/airflow/dags/daily_weather_dag.py
+Traceback (most recent call last):
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/kasten/airflow/dags/daily_weather_dag.py", line 36, in <module>
+    daily_weather_etl()
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 4231, in factory
+    with DAG(
+         ^^^^
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 653, in __init__
+    raise ValueError("At most one allowed for args 'schedule_interval', 'timetable', and 'schedule'.")
+ValueError: At most one allowed for args 'schedule_interval', 'timetable', and 'schedule'.
+[2024-09-09T01:23:49.626-0300] {processor.py:927} WARNING - No viable dags retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-09T01:23:49.641-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.258 seconds
+[2024-09-09T01:24:15.902-0300] {processor.py:186} INFO - Started process (PID=58430) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-09T01:24:15.903-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-09T01:24:15.905-0300] {logging_mixin.py:190} INFO - [2024-09-09T01:24:15.904-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-09T01:24:16.003-0300] {logging_mixin.py:190} INFO - [2024-09-09T01:24:16.003-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-09T01:24:16.126-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-09T01:24:16.140-0300] {logging_mixin.py:190} INFO - [2024-09-09T01:24:16.140-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-09T01:24:16.154-0300] {logging_mixin.py:190} INFO - [2024-09-09T01:24:16.154-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-09 01:30:00+00:00, run_after=2024-09-10 01:30:00+00:00
+[2024-09-09T01:24:16.179-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.280 seconds
