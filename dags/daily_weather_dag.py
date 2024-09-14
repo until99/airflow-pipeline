@@ -6,12 +6,12 @@ from weather_etl import run_weather_etl
 @dag(
     dag_id='weather_etl',
     # schedule_interval="@daily",
-    schedule="30 1 * * *",
-    start_date=datetime(2024, 9, 9),
+    schedule_interval="30 1 * * *",
+    start_date=datetime(2024, 9, 10),
     catchup=False,
     default_args={
         'retries': 1,
-        'retry_delay': timedelta(minutes=5),
+        'retry_delay': timedelta(minutes=30),
     },
     tags=['weather', 'daily', 'production']
 )

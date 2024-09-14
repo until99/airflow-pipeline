@@ -1,0 +1,892 @@
+[2024-09-13T22:37:52.762-0300] {processor.py:186} INFO - Started process (PID=294800) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:37:52.763-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:37:52.765-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:37:52.765-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:37:52.981-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:37:52.981-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:37:53.191-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:37:53.203-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:37:53.203-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:37:53.216-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:37:53.216-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-13 00:00:00+00:00, run_after=2024-09-14 00:00:00+00:00
+[2024-09-13T22:37:53.237-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.481 seconds
+[2024-09-13T22:38:24.388-0300] {processor.py:186} INFO - Started process (PID=295686) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:38:24.389-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:38:24.390-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:38:24.390-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:38:24.498-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:38:24.498-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:38:24.733-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:38:24.747-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:38:24.746-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:38:24.761-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:38:24.761-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:38:24.780-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.396 seconds
+[2024-09-13T22:38:55.031-0300] {processor.py:186} INFO - Started process (PID=295959) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:38:55.032-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:38:55.035-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:38:55.034-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:38:55.153-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:38:55.153-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:38:55.383-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:38:55.396-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:38:55.395-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:38:55.409-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:38:55.409-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:38:55.430-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.405 seconds
+[2024-09-13T22:39:25.650-0300] {processor.py:186} INFO - Started process (PID=296133) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:39:25.651-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:39:25.653-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:39:25.653-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:39:25.758-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:39:25.758-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:39:26.021-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:39:26.033-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:39:26.032-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:39:26.047-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:39:26.047-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:39:26.065-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.418 seconds
+[2024-09-13T22:39:56.243-0300] {processor.py:186} INFO - Started process (PID=296334) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:39:56.244-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:39:56.246-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:39:56.246-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:39:56.348-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:39:56.348-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:39:56.564-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:39:56.576-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:39:56.575-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:39:56.591-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:39:56.591-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:39:56.607-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.369 seconds
+[2024-09-13T22:40:26.768-0300] {processor.py:186} INFO - Started process (PID=296468) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:40:26.769-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:40:26.771-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:40:26.771-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:40:26.865-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:40:26.865-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:40:27.058-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:40:27.069-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:40:27.069-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:40:27.083-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:40:27.083-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:40:27.099-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.334 seconds
+[2024-09-13T22:40:57.316-0300] {processor.py:186} INFO - Started process (PID=296530) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:40:57.317-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:40:57.318-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:40:57.318-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:40:57.423-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:40:57.423-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:40:57.645-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:40:57.656-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:40:57.655-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:40:57.671-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:40:57.671-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:40:57.690-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.377 seconds
+[2024-09-13T22:41:27.839-0300] {processor.py:186} INFO - Started process (PID=296581) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:41:27.840-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:41:27.842-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:41:27.842-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:41:27.938-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:41:27.938-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:41:28.145-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:41:28.156-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:41:28.156-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:41:28.169-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:41:28.169-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:41:28.187-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.352 seconds
+[2024-09-13T22:41:58.388-0300] {processor.py:186} INFO - Started process (PID=296690) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:41:58.389-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:41:58.390-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:41:58.390-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:41:58.485-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:41:58.485-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:41:58.694-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:41:58.706-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:41:58.706-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:41:58.719-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:41:58.718-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:41:58.736-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.352 seconds
+[2024-09-13T22:42:28.910-0300] {processor.py:186} INFO - Started process (PID=296710) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:42:28.911-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:42:28.913-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:42:28.912-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:42:29.004-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:42:29.003-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:42:29.198-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:42:29.210-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:42:29.210-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:42:29.223-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:42:29.223-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:42:29.239-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.333 seconds
+[2024-09-13T22:42:59.434-0300] {processor.py:186} INFO - Started process (PID=296805) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:42:59.434-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:42:59.436-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:42:59.436-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:42:59.530-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:42:59.530-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:42:59.726-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:42:59.736-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:42:59.736-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:42:59.748-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:42:59.748-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:42:59.766-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.336 seconds
+[2024-09-13T22:43:29.925-0300] {processor.py:186} INFO - Started process (PID=296858) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:43:29.926-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:43:29.928-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:43:29.928-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:43:30.020-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:43:30.020-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:43:30.217-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:43:30.228-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:43:30.227-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:43:30.240-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:43:30.240-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:43:30.259-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.337 seconds
+[2024-09-13T22:44:00.416-0300] {processor.py:186} INFO - Started process (PID=296878) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:44:00.417-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:44:00.418-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:44:00.418-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:44:00.512-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:44:00.511-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:44:00.705-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:44:00.716-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:44:00.716-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:44:00.730-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:44:00.730-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:44:00.748-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.336 seconds
+[2024-09-13T22:44:30.907-0300] {processor.py:186} INFO - Started process (PID=296897) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:44:30.908-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:44:30.909-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:44:30.909-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:44:31.003-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:44:31.003-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:44:31.199-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:44:31.210-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:44:31.210-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:44:31.224-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:44:31.224-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:44:31.240-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.337 seconds
+[2024-09-13T22:45:01.374-0300] {processor.py:186} INFO - Started process (PID=296916) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:45:01.375-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:45:01.376-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:45:01.376-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:45:01.469-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:45:01.469-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:45:01.664-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:45:01.675-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:45:01.675-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:45:01.689-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:45:01.689-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:45:01.706-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.336 seconds
+[2024-09-13T22:45:31.840-0300] {processor.py:186} INFO - Started process (PID=296939) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:45:31.840-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:45:31.842-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:45:31.841-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:45:31.934-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:45:31.934-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:45:32.131-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:45:32.142-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:45:32.142-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:45:32.155-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:45:32.155-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:45:32.172-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.335 seconds
+[2024-09-13T22:46:02.305-0300] {processor.py:186} INFO - Started process (PID=296957) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:46:02.306-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:46:02.308-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:46:02.307-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:46:02.400-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:46:02.400-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:46:02.595-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:46:02.607-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:46:02.607-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:46:02.620-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:46:02.620-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:46:02.637-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.335 seconds
+[2024-09-13T22:46:32.777-0300] {processor.py:186} INFO - Started process (PID=297025) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:46:32.778-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:46:32.780-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:46:32.779-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:46:32.872-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:46:32.872-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:46:33.064-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:46:33.076-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:46:33.075-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:46:33.088-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:46:33.088-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:46:33.111-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.340 seconds
+[2024-09-13T22:47:03.239-0300] {processor.py:186} INFO - Started process (PID=297042) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:47:03.239-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:47:03.241-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:47:03.241-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:47:03.332-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:47:03.332-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:47:03.525-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:47:03.536-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:47:03.536-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:47:03.549-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:47:03.549-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:47:03.565-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.330 seconds
+[2024-09-13T22:47:33.703-0300] {processor.py:186} INFO - Started process (PID=297077) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:47:33.704-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:47:33.706-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:47:33.706-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:47:33.799-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:47:33.798-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:47:33.994-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:47:34.005-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:47:34.005-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:47:34.018-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:47:34.017-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:47:34.034-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.334 seconds
+[2024-09-13T22:48:04.167-0300] {processor.py:186} INFO - Started process (PID=297105) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:48:04.168-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:48:04.170-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:48:04.170-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:48:04.263-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:48:04.262-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:48:04.456-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:48:04.467-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:48:04.466-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:48:04.480-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:48:04.479-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:48:04.498-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.334 seconds
+[2024-09-13T22:48:34.632-0300] {processor.py:186} INFO - Started process (PID=297132) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:48:34.632-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:48:34.634-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:48:34.634-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:48:34.726-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:48:34.726-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:48:34.922-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:48:34.933-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:48:34.932-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:48:34.946-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:48:34.946-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:48:34.964-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.336 seconds
+[2024-09-13T22:49:05.095-0300] {processor.py:186} INFO - Started process (PID=297150) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:49:05.096-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:49:05.098-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:49:05.098-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:49:05.191-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:49:05.190-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:49:05.384-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:49:05.395-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:49:05.394-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:49:05.410-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:49:05.409-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:49:05.426-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.334 seconds
+[2024-09-13T22:49:35.560-0300] {processor.py:186} INFO - Started process (PID=297171) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:49:35.560-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:49:35.562-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:49:35.562-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:49:35.654-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:49:35.654-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:49:35.847-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:49:35.858-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:49:35.858-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:49:35.872-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:49:35.872-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:49:35.888-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.332 seconds
+[2024-09-13T22:50:06.025-0300] {processor.py:186} INFO - Started process (PID=297189) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:50:06.026-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:50:06.027-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:50:06.027-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:50:06.119-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:50:06.119-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:50:06.312-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:50:06.329-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:50:06.328-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:50:06.343-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:50:06.343-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:50:06.360-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.338 seconds
+[2024-09-13T22:50:36.486-0300] {processor.py:186} INFO - Started process (PID=297215) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:50:36.486-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:50:36.488-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:50:36.488-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:50:36.578-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:50:36.578-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:50:36.771-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:50:36.783-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:50:36.783-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:50:36.795-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:50:36.795-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:50:36.811-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.328 seconds
+[2024-09-13T22:51:06.951-0300] {processor.py:186} INFO - Started process (PID=297243) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:51:06.952-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:51:06.954-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:51:06.954-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:51:07.046-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:51:07.045-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:51:07.242-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:51:07.253-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:51:07.253-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:51:07.266-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:51:07.266-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:51:07.283-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.335 seconds
+[2024-09-13T22:51:37.416-0300] {processor.py:186} INFO - Started process (PID=297262) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:51:37.416-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:51:37.418-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:51:37.418-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:51:37.510-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:51:37.510-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:51:37.701-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:51:37.712-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:51:37.712-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:51:37.725-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:51:37.725-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:51:37.742-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.329 seconds
+[2024-09-13T22:52:07.881-0300] {processor.py:186} INFO - Started process (PID=297287) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:52:07.882-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:52:07.884-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:52:07.883-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:52:07.976-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:52:07.976-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:52:08.167-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:52:08.177-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:52:08.177-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:52:08.190-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:52:08.190-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:52:08.207-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.329 seconds
+[2024-09-13T22:52:38.346-0300] {processor.py:186} INFO - Started process (PID=297333) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:52:38.347-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:52:38.349-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:52:38.348-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:52:38.441-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:52:38.441-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:52:38.639-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:52:38.650-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:52:38.649-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:52:38.663-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:52:38.663-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:52:38.681-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.338 seconds
+[2024-09-13T22:53:08.810-0300] {processor.py:186} INFO - Started process (PID=297356) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:53:08.811-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:53:08.813-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:53:08.813-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:53:08.904-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:53:08.903-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:53:09.096-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:53:09.106-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:53:09.106-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:53:09.120-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:53:09.120-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:53:09.136-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.329 seconds
+[2024-09-13T22:53:39.276-0300] {processor.py:186} INFO - Started process (PID=297383) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:53:39.276-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:53:39.278-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:53:39.278-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:53:39.369-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:53:39.369-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:53:39.561-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:53:39.572-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:53:39.571-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:53:39.585-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:53:39.585-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:53:39.601-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.330 seconds
+[2024-09-13T22:54:09.741-0300] {processor.py:186} INFO - Started process (PID=297404) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:54:09.742-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:54:09.743-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:54:09.743-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:54:09.834-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:54:09.834-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:54:10.025-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:54:10.036-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:54:10.036-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:54:10.049-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:54:10.049-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:54:10.066-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.329 seconds
+[2024-09-13T22:54:40.204-0300] {processor.py:186} INFO - Started process (PID=297422) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:54:40.204-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:54:40.206-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:54:40.206-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:54:40.297-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:54:40.297-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:54:40.493-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:54:40.504-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:54:40.504-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:54:40.517-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:54:40.517-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:54:40.533-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.333 seconds
+[2024-09-13T22:55:10.668-0300] {processor.py:186} INFO - Started process (PID=297443) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:55:10.668-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:55:10.670-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:55:10.670-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:55:10.760-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:55:10.760-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:55:10.953-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:55:10.965-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:55:10.965-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:55:10.978-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:55:10.978-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:55:10.994-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.330 seconds
+[2024-09-13T22:55:41.132-0300] {processor.py:186} INFO - Started process (PID=297462) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:55:41.132-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:55:41.134-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:55:41.134-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:55:41.226-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:55:41.226-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:55:41.419-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:55:41.430-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:55:41.429-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:55:41.442-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:55:41.442-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:55:41.459-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.331 seconds
+[2024-09-13T22:56:11.595-0300] {processor.py:186} INFO - Started process (PID=297480) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:56:11.596-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:56:11.597-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:56:11.597-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:56:11.689-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:56:11.688-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:56:11.883-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:56:11.894-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:56:11.893-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:56:11.906-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:56:11.906-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:56:11.925-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.334 seconds
+[2024-09-13T22:56:42.059-0300] {processor.py:186} INFO - Started process (PID=297499) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:56:42.060-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:56:42.061-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:56:42.061-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:56:42.152-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:56:42.152-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:56:42.346-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:56:42.356-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:56:42.356-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:56:42.369-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:56:42.369-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:56:42.386-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.331 seconds
+[2024-09-13T22:57:12.525-0300] {processor.py:186} INFO - Started process (PID=297602) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:57:12.526-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:57:12.528-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:57:12.528-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:57:12.627-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:57:12.627-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:57:12.833-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:57:12.844-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:57:12.843-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:57:12.858-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:57:12.858-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:57:12.875-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.353 seconds
+[2024-09-13T22:57:42.991-0300] {processor.py:186} INFO - Started process (PID=298001) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:57:42.992-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:57:42.993-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:57:42.993-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:57:43.089-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:57:43.089-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:57:43.375-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:57:43.395-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:57:43.394-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:57:43.417-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:57:43.416-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:57:43.434-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.446 seconds
+[2024-09-13T22:58:13.559-0300] {processor.py:186} INFO - Started process (PID=298123) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:58:13.559-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:58:13.561-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:58:13.561-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:58:13.660-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:58:13.660-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:58:13.872-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:58:13.884-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:58:13.883-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:58:13.900-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:58:13.900-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:58:13.917-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.363 seconds
+[2024-09-13T22:58:44.026-0300] {processor.py:186} INFO - Started process (PID=298178) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:58:44.026-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:58:44.028-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:58:44.028-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:58:44.123-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:58:44.123-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:58:44.317-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:58:44.329-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:58:44.329-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:58:44.343-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:58:44.343-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:58:44.360-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.338 seconds
+[2024-09-13T22:59:14.494-0300] {processor.py:186} INFO - Started process (PID=298444) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:59:14.495-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:59:14.497-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:59:14.497-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:59:14.613-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:59:14.613-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:59:14.830-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:59:14.847-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:59:14.847-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:59:14.862-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:59:14.862-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:59:14.879-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.389 seconds
+[2024-09-13T22:59:44.965-0300] {processor.py:186} INFO - Started process (PID=298605) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:59:44.966-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T22:59:44.967-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:59:44.967-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:59:45.075-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:59:45.074-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T22:59:45.301-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T22:59:45.313-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:59:45.313-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T22:59:45.327-0300] {logging_mixin.py:190} INFO - [2024-09-13T22:59:45.327-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T22:59:45.345-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.385 seconds
+[2024-09-13T23:00:15.432-0300] {processor.py:186} INFO - Started process (PID=298676) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:00:15.432-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:00:15.434-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:00:15.434-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:00:15.537-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:00:15.536-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:00:15.749-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:00:15.761-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:00:15.760-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:00:15.774-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:00:15.774-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T23:00:15.792-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.364 seconds
+[2024-09-13T23:00:45.902-0300] {processor.py:186} INFO - Started process (PID=299059) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:00:45.902-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:00:45.904-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:00:45.904-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:00:46.008-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:00:46.007-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:00:46.234-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:00:46.246-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:00:46.246-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:00:46.260-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:00:46.260-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T23:00:46.281-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.383 seconds
+[2024-09-13T23:01:17.895-0300] {processor.py:186} INFO - Started process (PID=299472) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:01:17.896-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:01:17.897-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:01:17.897-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:01:17.998-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:01:17.998-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:01:18.216-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:01:18.228-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:01:18.228-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:01:18.242-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:01:18.242-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T23:01:18.260-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.369 seconds
+[2024-09-13T23:01:35.030-0300] {processor.py:186} INFO - Started process (PID=299652) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:01:35.031-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:01:35.032-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:01:35.032-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:01:35.137-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:01:35.137-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:01:35.368-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:01:35.458-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:01:35.457-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:01:35.474-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:01:35.474-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T23:01:35.507-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.480 seconds
+[2024-09-13T23:01:47.920-0300] {processor.py:186} INFO - Started process (PID=299751) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:01:47.920-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:01:47.922-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:01:47.922-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:01:48.028-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:01:48.028-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:01:48.274-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:01:48.277-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:01:48.276-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:01:48.293-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:01:48.292-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T23:01:48.311-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.395 seconds
+[2024-09-13T23:01:59.426-0300] {processor.py:186} INFO - Started process (PID=299849) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:01:59.427-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:01:59.429-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:01:59.429-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:01:59.528-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:01:59.528-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:01:59.748-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:01:59.746-0300] {dagbag.py:386} ERROR - Failed to import: /home/kasten/airflow/dags/daily_weather_dag.py
+Traceback (most recent call last):
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/kasten/airflow/dags/daily_weather_dag.py", line 34, in <module>
+    daily_weather_etl()
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 4231, in factory
+    with DAG(
+         ^^^^
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 650, in __init__
+    raise ValueError("DAG is missing the start_date parameter")
+ValueError: DAG is missing the start_date parameter
+[2024-09-13T23:01:59.748-0300] {processor.py:927} WARNING - No viable dags retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:01:59.760-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.337 seconds
+[2024-09-13T23:02:14.532-0300] {processor.py:186} INFO - Started process (PID=299982) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:02:14.533-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:02:14.535-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:02:14.534-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:02:14.638-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:02:14.638-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:02:14.850-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:02:14.849-0300] {dagbag.py:386} ERROR - Failed to import: /home/kasten/airflow/dags/daily_weather_dag.py
+Traceback (most recent call last):
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/kasten/airflow/dags/daily_weather_dag.py", line 36, in <module>
+    daily_weather_etl()
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 4231, in factory
+    with DAG(
+         ^^^^
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 650, in __init__
+    raise ValueError("DAG is missing the start_date parameter")
+ValueError: DAG is missing the start_date parameter
+[2024-09-13T23:02:14.851-0300] {processor.py:927} WARNING - No viable dags retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:02:14.863-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.334 seconds
+[2024-09-13T23:02:33.149-0300] {processor.py:186} INFO - Started process (PID=300106) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:02:33.150-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:02:33.153-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:02:33.153-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:02:33.262-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:02:33.262-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:02:33.578-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:02:33.576-0300] {dagbag.py:386} ERROR - Failed to import: /home/kasten/airflow/dags/daily_weather_dag.py
+Traceback (most recent call last):
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/kasten/airflow/dags/daily_weather_dag.py", line 36, in <module>
+    daily_weather_etl()
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 4231, in factory
+    with DAG(
+         ^^^^
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 653, in __init__
+    raise ValueError("At most one allowed for args 'schedule_interval', 'timetable', and 'schedule'.")
+ValueError: At most one allowed for args 'schedule_interval', 'timetable', and 'schedule'.
+[2024-09-13T23:02:33.579-0300] {processor.py:927} WARNING - No viable dags retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:02:33.606-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.462 seconds
+[2024-09-13T23:02:49.887-0300] {processor.py:186} INFO - Started process (PID=300272) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:02:49.888-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:02:49.889-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:02:49.889-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:02:50.020-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:02:50.020-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:02:50.265-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:02:50.264-0300] {dagbag.py:386} ERROR - Failed to import: /home/kasten/airflow/dags/daily_weather_dag.py
+Traceback (most recent call last):
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/kasten/airflow/dags/daily_weather_dag.py", line 36, in <module>
+    daily_weather_etl()
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 4231, in factory
+    with DAG(
+         ^^^^
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 653, in __init__
+    raise ValueError("At most one allowed for args 'schedule_interval', 'timetable', and 'schedule'.")
+ValueError: At most one allowed for args 'schedule_interval', 'timetable', and 'schedule'.
+[2024-09-13T23:02:50.266-0300] {processor.py:927} WARNING - No viable dags retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:02:50.279-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.398 seconds
+[2024-09-13T23:03:21.121-0300] {processor.py:186} INFO - Started process (PID=300449) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:03:21.122-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:03:21.123-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:03:21.122-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:03:21.215-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:03:21.215-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:03:21.411-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:03:21.409-0300] {dagbag.py:386} ERROR - Failed to import: /home/kasten/airflow/dags/daily_weather_dag.py
+Traceback (most recent call last):
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/kasten/airflow/dags/daily_weather_dag.py", line 36, in <module>
+    daily_weather_etl()
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 4231, in factory
+    with DAG(
+         ^^^^
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 653, in __init__
+    raise ValueError("At most one allowed for args 'schedule_interval', 'timetable', and 'schedule'.")
+ValueError: At most one allowed for args 'schedule_interval', 'timetable', and 'schedule'.
+[2024-09-13T23:03:21.411-0300] {processor.py:927} WARNING - No viable dags retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:03:21.424-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.307 seconds
+[2024-09-13T23:03:52.369-0300] {processor.py:186} INFO - Started process (PID=300542) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:03:52.370-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:03:52.371-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:03:52.371-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:03:52.473-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:03:52.473-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:03:52.691-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:03:52.689-0300] {dagbag.py:386} ERROR - Failed to import: /home/kasten/airflow/dags/daily_weather_dag.py
+Traceback (most recent call last):
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/kasten/airflow/dags/daily_weather_dag.py", line 36, in <module>
+    daily_weather_etl()
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 4231, in factory
+    with DAG(
+         ^^^^
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 653, in __init__
+    raise ValueError("At most one allowed for args 'schedule_interval', 'timetable', and 'schedule'.")
+ValueError: At most one allowed for args 'schedule_interval', 'timetable', and 'schedule'.
+[2024-09-13T23:03:52.691-0300] {processor.py:927} WARNING - No viable dags retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:03:52.704-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.340 seconds
+[2024-09-13T23:04:12.516-0300] {processor.py:186} INFO - Started process (PID=300653) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:04:12.516-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:04:12.517-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:04:12.517-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:04:12.624-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:04:12.623-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:04:12.894-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:04:12.892-0300] {dagbag.py:386} ERROR - Failed to import: /home/kasten/airflow/dags/daily_weather_dag.py
+Traceback (most recent call last):
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/kasten/airflow/dags/daily_weather_dag.py", line 36, in <module>
+    daily_weather_etl()
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 4231, in factory
+    with DAG(
+         ^^^^
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 650, in __init__
+    raise ValueError("DAG is missing the start_date parameter")
+ValueError: DAG is missing the start_date parameter
+[2024-09-13T23:04:12.895-0300] {processor.py:927} WARNING - No viable dags retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:04:12.908-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.399 seconds
+[2024-09-13T23:04:18.783-0300] {processor.py:186} INFO - Started process (PID=300724) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:04:18.783-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:04:18.784-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:04:18.784-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:04:18.951-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:04:18.951-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:04:19.199-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:04:19.197-0300] {dagbag.py:386} ERROR - Failed to import: /home/kasten/airflow/dags/daily_weather_dag.py
+Traceback (most recent call last):
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/kasten/airflow/dags/daily_weather_dag.py", line 36, in <module>
+    daily_weather_etl()
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 4231, in factory
+    with DAG(
+         ^^^^
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 653, in __init__
+    raise ValueError("At most one allowed for args 'schedule_interval', 'timetable', and 'schedule'.")
+ValueError: At most one allowed for args 'schedule_interval', 'timetable', and 'schedule'.
+[2024-09-13T23:04:19.200-0300] {processor.py:927} WARNING - No viable dags retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:04:19.222-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.443 seconds
+[2024-09-13T23:04:24.530-0300] {processor.py:186} INFO - Started process (PID=300794) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:04:24.531-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:04:24.532-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:04:24.531-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:04:24.637-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:04:24.636-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:04:24.854-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:04:24.983-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:04:24.983-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:04:25.008-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:04:25.007-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T23:04:25.038-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.513 seconds
+[2024-09-13T23:04:43.335-0300] {processor.py:186} INFO - Started process (PID=300888) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:04:43.336-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:04:43.337-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:04:43.337-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:04:43.436-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:04:43.436-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:04:43.708-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:04:43.712-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:04:43.711-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:04:43.726-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:04:43.726-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 00:00:00+00:00, run_after=2024-09-15 00:00:00+00:00
+[2024-09-13T23:04:43.743-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.412 seconds
+[2024-09-13T23:05:12.501-0300] {processor.py:186} INFO - Started process (PID=301031) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:05:12.502-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:05:12.503-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:05:12.502-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:05:12.613-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:05:12.613-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:05:12.846-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:05:12.845-0300] {dagbag.py:386} ERROR - Failed to import: /home/kasten/airflow/dags/daily_weather_dag.py
+Traceback (most recent call last):
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/kasten/airflow/dags/daily_weather_dag.py", line 36, in <module>
+    daily_weather_etl()
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 4231, in factory
+    with DAG(
+         ^^^^
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 650, in __init__
+    raise ValueError("DAG is missing the start_date parameter")
+ValueError: DAG is missing the start_date parameter
+[2024-09-13T23:05:12.847-0300] {processor.py:927} WARNING - No viable dags retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:05:12.859-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.362 seconds
+[2024-09-13T23:05:19.416-0300] {processor.py:186} INFO - Started process (PID=301104) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:05:19.417-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:05:19.418-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:05:19.418-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:05:19.528-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:05:19.528-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:05:19.743-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:05:19.742-0300] {dagbag.py:386} ERROR - Failed to import: /home/kasten/airflow/dags/daily_weather_dag.py
+Traceback (most recent call last):
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/kasten/airflow/dags/daily_weather_dag.py", line 36, in <module>
+    daily_weather_etl()
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 4231, in factory
+    with DAG(
+         ^^^^
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 653, in __init__
+    raise ValueError("At most one allowed for args 'schedule_interval', 'timetable', and 'schedule'.")
+ValueError: At most one allowed for args 'schedule_interval', 'timetable', and 'schedule'.
+[2024-09-13T23:05:19.744-0300] {processor.py:927} WARNING - No viable dags retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:05:19.757-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.346 seconds
+[2024-09-13T23:05:49.833-0300] {processor.py:186} INFO - Started process (PID=301266) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:05:49.834-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:05:49.835-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:05:49.835-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:05:49.971-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:05:49.971-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:05:50.191-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:05:50.189-0300] {dagbag.py:386} ERROR - Failed to import: /home/kasten/airflow/dags/daily_weather_dag.py
+Traceback (most recent call last):
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/kasten/airflow/dags/daily_weather_dag.py", line 36, in <module>
+    daily_weather_etl()
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 4231, in factory
+    with DAG(
+         ^^^^
+  File "/home/kasten/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 653, in __init__
+    raise ValueError("At most one allowed for args 'schedule_interval', 'timetable', and 'schedule'.")
+ValueError: At most one allowed for args 'schedule_interval', 'timetable', and 'schedule'.
+[2024-09-13T23:05:50.191-0300] {processor.py:927} WARNING - No viable dags retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:05:50.203-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.374 seconds
+[2024-09-13T23:05:57.839-0300] {processor.py:186} INFO - Started process (PID=301301) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:05:57.839-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:05:57.840-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:05:57.840-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:05:57.940-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:05:57.940-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:05:58.155-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:05:58.235-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:05:58.234-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:05:58.249-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:05:58.249-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-13 01:30:00+00:00, run_after=2024-09-14 01:30:00+00:00
+[2024-09-13T23:05:58.274-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.439 seconds
+[2024-09-13T23:06:29.299-0300] {processor.py:186} INFO - Started process (PID=301524) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:06:29.300-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:06:29.301-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:06:29.301-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:06:29.399-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:06:29.399-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:06:29.622-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:06:29.635-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:06:29.634-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:06:29.661-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:06:29.661-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:06:29.693-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.397 seconds
+[2024-09-13T23:07:00.543-0300] {processor.py:186} INFO - Started process (PID=301628) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:07:00.543-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:07:00.544-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:07:00.544-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:07:00.643-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:07:00.643-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:07:00.854-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:07:00.866-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:07:00.866-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:07:00.880-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:07:00.880-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:07:00.895-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.357 seconds
+[2024-09-13T23:07:31.781-0300] {processor.py:186} INFO - Started process (PID=301669) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:07:31.782-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:07:31.783-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:07:31.783-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:07:31.880-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:07:31.880-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:07:32.086-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:07:32.099-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:07:32.098-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:07:32.113-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:07:32.113-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:07:32.128-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.351 seconds
+[2024-09-13T23:08:02.326-0300] {processor.py:186} INFO - Started process (PID=301828) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:08:02.326-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:08:02.327-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:08:02.327-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:08:02.421-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:08:02.421-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:08:02.621-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:08:02.633-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:08:02.632-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:08:02.649-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:08:02.649-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:08:02.666-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.344 seconds
+[2024-09-13T23:08:32.810-0300] {processor.py:186} INFO - Started process (PID=301889) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:08:32.811-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:08:32.812-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:08:32.812-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:08:32.910-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:08:32.910-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:08:33.116-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:08:33.127-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:08:33.127-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:08:33.140-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:08:33.140-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:08:33.157-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.350 seconds
+[2024-09-13T23:09:03.303-0300] {processor.py:186} INFO - Started process (PID=301959) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:09:03.303-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:09:03.304-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:09:03.304-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:09:03.410-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:09:03.410-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:09:03.637-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:09:03.649-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:09:03.649-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:09:03.664-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:09:03.664-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:09:03.684-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.386 seconds
+[2024-09-13T23:09:33.797-0300] {processor.py:186} INFO - Started process (PID=302071) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:09:33.797-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:09:33.798-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:09:33.798-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:09:33.901-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:09:33.901-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:09:34.121-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:09:34.133-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:09:34.132-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:09:34.147-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:09:34.147-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:09:34.168-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.375 seconds
+[2024-09-13T23:10:04.327-0300] {processor.py:186} INFO - Started process (PID=302228) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:10:04.331-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:10:04.336-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:10:04.335-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:10:04.553-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:10:04.552-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:10:04.818-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:10:04.834-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:10:04.833-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:10:04.851-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:10:04.851-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:10:04.870-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.550 seconds
+[2024-09-13T23:10:35.022-0300] {processor.py:186} INFO - Started process (PID=302436) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:10:35.022-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:10:35.024-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:10:35.024-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:10:35.130-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:10:35.130-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:10:35.341-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:10:35.353-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:10:35.352-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:10:35.367-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:10:35.367-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:10:35.401-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.384 seconds
+[2024-09-13T23:11:05.512-0300] {processor.py:186} INFO - Started process (PID=302461) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:11:05.512-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:11:05.513-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:11:05.513-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:11:05.608-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:11:05.608-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:11:05.808-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:11:05.821-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:11:05.820-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:11:05.833-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:11:05.833-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:11:05.849-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.341 seconds
+[2024-09-13T23:11:35.981-0300] {processor.py:186} INFO - Started process (PID=302488) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:11:35.981-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:11:35.982-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:11:35.982-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:11:36.078-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:11:36.078-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:11:36.278-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:11:36.291-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:11:36.290-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:11:36.304-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:11:36.304-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:11:36.320-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.343 seconds
+[2024-09-13T23:12:07.004-0300] {processor.py:186} INFO - Started process (PID=302514) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:12:07.005-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:12:07.006-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:12:07.005-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:12:07.101-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:12:07.100-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:12:07.302-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:12:07.315-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:12:07.314-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:12:07.328-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:12:07.328-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:12:07.346-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.346 seconds
+[2024-09-13T23:12:38.204-0300] {processor.py:186} INFO - Started process (PID=302586) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:12:38.205-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:12:38.206-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:12:38.206-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:12:38.302-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:12:38.302-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:12:38.507-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:12:38.518-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:12:38.518-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:12:38.532-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:12:38.532-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:12:38.549-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.349 seconds
+[2024-09-13T23:13:09.349-0300] {processor.py:186} INFO - Started process (PID=302621) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:13:09.350-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:13:09.351-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:13:09.351-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:13:09.452-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:13:09.451-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:13:09.665-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:13:09.676-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:13:09.676-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:13:09.690-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:13:09.690-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:13:09.708-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.365 seconds
+[2024-09-13T23:13:39.971-0300] {processor.py:186} INFO - Started process (PID=302659) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:13:39.972-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:13:39.972-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:13:39.972-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:13:40.072-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:13:40.072-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:13:40.278-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:13:40.292-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:13:40.292-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:13:40.305-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:13:40.305-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:13:40.323-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.356 seconds
+[2024-09-13T23:14:10.610-0300] {processor.py:186} INFO - Started process (PID=302678) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:14:10.611-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:14:10.612-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:14:10.611-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:14:10.719-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:14:10.719-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:14:10.918-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:14:10.930-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:14:10.930-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:14:10.945-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:14:10.945-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:14:10.961-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.355 seconds
+[2024-09-13T23:14:41.240-0300] {processor.py:186} INFO - Started process (PID=302703) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:14:41.240-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:14:41.242-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:14:41.242-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:14:41.372-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:14:41.372-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:14:41.616-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:14:41.628-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:14:41.627-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:14:41.643-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:14:41.642-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:14:41.660-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.424 seconds
+[2024-09-13T23:15:11.955-0300] {processor.py:186} INFO - Started process (PID=302734) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:15:11.956-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:15:11.957-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:15:11.957-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:15:12.054-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:15:12.054-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:15:12.260-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:15:12.272-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:15:12.272-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:15:12.285-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:15:12.285-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:15:12.302-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.350 seconds
+[2024-09-13T23:15:42.576-0300] {processor.py:186} INFO - Started process (PID=303720) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:15:42.577-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:15:42.578-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:15:42.578-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:15:42.679-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:15:42.679-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:15:42.888-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:15:42.900-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:15:42.900-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:15:42.914-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:15:42.914-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:15:42.931-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.360 seconds
+[2024-09-13T23:16:13.202-0300] {processor.py:186} INFO - Started process (PID=303782) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:16:13.203-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:16:13.204-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:16:13.203-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:16:13.309-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:16:13.309-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:16:13.521-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:16:13.533-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:16:13.533-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:16:13.546-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:16:13.546-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:16:13.564-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.366 seconds
+[2024-09-13T23:16:22.324-0300] {processor.py:186} INFO - Started process (PID=303846) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:16:22.325-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:16:22.326-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:16:22.325-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:16:22.511-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:16:22.511-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:16:22.776-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:16:22.788-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:16:22.788-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:16:22.802-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:16:22.802-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:16:22.819-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.500 seconds
+[2024-09-13T23:16:26.703-0300] {processor.py:186} INFO - Started process (PID=304077) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:16:26.704-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:16:26.705-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:16:26.704-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:16:26.880-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:16:26.880-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:16:27.370-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:16:27.392-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:16:27.392-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:16:27.420-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:16:27.419-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:16:27.459-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.760 seconds
+[2024-09-13T23:16:57.776-0300] {processor.py:186} INFO - Started process (PID=304253) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:16:57.777-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:16:57.778-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:16:57.778-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:16:57.934-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:16:57.934-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:16:58.209-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:16:58.222-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:16:58.222-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:16:58.237-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:16:58.237-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:16:58.254-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.482 seconds
+[2024-09-13T23:17:28.885-0300] {processor.py:186} INFO - Started process (PID=304664) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:17:28.886-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:17:28.887-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:17:28.887-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:17:28.996-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:17:28.996-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:17:29.220-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:17:29.232-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:17:29.231-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:17:29.246-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:17:29.246-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:17:29.266-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.385 seconds
+[2024-09-13T23:17:59.480-0300] {processor.py:186} INFO - Started process (PID=304731) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:17:59.487-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:17:59.488-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:17:59.487-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:17:59.584-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:17:59.584-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:17:59.786-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:17:59.798-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:17:59.797-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:17:59.813-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:17:59.813-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:17:59.830-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.354 seconds
+[2024-09-13T23:18:30.099-0300] {processor.py:186} INFO - Started process (PID=304765) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:18:30.100-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:18:30.101-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:18:30.101-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:18:30.201-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:18:30.200-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:18:30.402-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:18:30.414-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:18:30.414-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:18:30.428-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:18:30.428-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:18:30.446-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.350 seconds
+[2024-09-13T23:19:00.722-0300] {processor.py:186} INFO - Started process (PID=304788) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:19:00.723-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:19:00.724-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:19:00.724-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:19:00.820-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:19:00.820-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:19:01.023-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:19:01.033-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:19:01.033-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:19:01.048-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:19:01.048-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:19:01.065-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.346 seconds
+[2024-09-13T23:19:31.438-0300] {processor.py:186} INFO - Started process (PID=305025) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:19:31.439-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:19:31.440-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:19:31.440-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:19:31.578-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:19:31.578-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:19:31.817-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:19:31.829-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:19:31.829-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:19:31.844-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:19:31.844-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:19:31.862-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.427 seconds
+[2024-09-13T23:20:02.159-0300] {processor.py:186} INFO - Started process (PID=305056) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:20:02.161-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:20:02.161-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:20:02.161-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:20:02.261-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:20:02.261-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:20:02.473-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:20:02.485-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:20:02.485-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:20:02.499-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:20:02.499-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:20:02.515-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.360 seconds
+[2024-09-13T23:20:32.779-0300] {processor.py:186} INFO - Started process (PID=305081) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:20:32.780-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:20:32.781-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:20:32.780-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:20:32.883-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:20:32.882-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:20:33.099-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:20:33.112-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:20:33.112-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:20:33.127-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:20:33.127-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:20:33.143-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.368 seconds
+[2024-09-13T23:21:03.405-0300] {processor.py:186} INFO - Started process (PID=305396) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:21:03.406-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:21:03.408-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:21:03.407-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:21:03.524-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:21:03.524-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:21:03.747-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:21:03.760-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:21:03.759-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:21:03.774-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:21:03.774-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:21:03.792-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.392 seconds
+[2024-09-13T23:21:34.000-0300] {processor.py:186} INFO - Started process (PID=305595) to work on /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:21:34.001-0300] {processor.py:914} INFO - Processing file /home/kasten/airflow/dags/daily_weather_dag.py for tasks to queue
+[2024-09-13T23:21:34.001-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:21:34.001-0300] {dagbag.py:587} INFO - Filling up the DagBag from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:21:34.101-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:21:34.101-0300] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-09-13T23:21:34.311-0300] {processor.py:925} INFO - DAG(s) 'weather_etl' retrieved from /home/kasten/airflow/dags/daily_weather_dag.py
+[2024-09-13T23:21:34.323-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:21:34.323-0300] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-13T23:21:34.337-0300] {logging_mixin.py:190} INFO - [2024-09-13T23:21:34.337-0300] {dag.py:4156} INFO - Setting next_dagrun for weather_etl to 2024-09-14 01:30:00+00:00, run_after=2024-09-15 01:30:00+00:00
+[2024-09-13T23:21:34.357-0300] {processor.py:208} INFO - Processing /home/kasten/airflow/dags/daily_weather_dag.py took 0.361 seconds
